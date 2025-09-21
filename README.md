@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ###
 # Clone e execute
 git clone https://github.com/Aszinnnn/certificado_generator.git <br>
-cd gerador-certificados <br>
+cd certificado_generator<br>
 python src/main.py
 ##
 # 🎯 FUNCIONALIDADES
