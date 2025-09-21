@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ###
 # Clone e execute
-git clone https://github.com/seu-usuario/certificado_generator.git <br>
+git clone https://github.com/Aszinnnn/certificado_generator.git <br>
 cd gerador-certificados <br>
 python src/main.py
 ##
