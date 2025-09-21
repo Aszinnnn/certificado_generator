@@ -81,3 +81,14 @@ Porta: 587
 E-mail: seu_email@gmail.com
 
 Senha: SENHA DE APP (16 caracteres)
+##
+# 🛠 TECNOLOGIAS
+Python 3.8+
+
+TKinter (Interface gráfica)
+
+SMTP (Envio de e-mails)
+
+HTML/CSS (Certificados)
+
+CSV (Gerenciamento de dados)
